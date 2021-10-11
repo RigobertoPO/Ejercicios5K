@@ -20,6 +20,7 @@
             <li><a href="ejercicio5/pagina5.php">Ejercicio 5</a></li>
             <li><a href="ejercicio6/pagina6.php">Ejercicio 6</a></li>
             <li><a href="ejercicio7/pagina7.php">Ejercicio 7</a></li>
+            <li><a href="ejercicio8/pagina8.php">Ejercicio 8</a></li>
         </ul>
     </article>
     <footer>
